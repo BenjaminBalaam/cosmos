@@ -1,7 +1,3 @@
-.vscode
-cosmos.code-workspace
-isodir/boot/cosmos.bin
-isodir/boot/grub/grub.cfg
-boot.o
-kernel.o
-cosmos.bin
+*.iso
+isodir
+sysroot
